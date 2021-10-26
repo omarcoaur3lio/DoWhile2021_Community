@@ -6,15 +6,15 @@
     <img alt="English" src="https://img.shields.io/badge/-Leia em português-000?style=flat&logo=google-translate&logoColor=FFF&labelColor=B433C1" />
 </a>
 
-The mobile application was developed with React Native, using [Expo](https://expo.dev/) to create the project. 
+A aplicação mobile foi desenvolvida com React Native, utilizando [Expo](https://expo.dev/) para criação do projeto.
 
-### 💻 Startup Requirements 
+### Requisitos para Inicialização
 
 ```bash
 npm install --global expo-cli
 ```
 
-### ✨ Project Startup 
+### Inicialização do Projeto
 
 - Clone do repositório da pasta /reactnative
 
@@ -22,13 +22,13 @@ npm install --global expo-cli
     npm install --global expo-cli
     ```
 
-- Installation of dependencies 
+- Instalação de dependências
 
     ```bash
     yarn
     ```
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 - Expo
 - React Native
